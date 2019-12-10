@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["R2FQ2"]); }
+
+__d("useGalahadDropdownMenu__DEPRECATED",["React","WorkGalahadDropdownMenu__DEPRECATED.react"],(function(a,b,c,d,e,f){"use strict";__p&&__p();var g=b("React").useRef,h=b("React").useState;function a(a){var c=a.alignment,d=a.label,e=a.items,f=a.onShow,i=a.onHide,j=a.position,k=a.width,l=a.offsetX;a=a.offsetY;var m=h(!1),n=m[0],o=m[1],p=g();function q(a){o(a),a?f&&f():i&&i()}m=e?b("React").jsx(b("WorkGalahadDropdownMenu__DEPRECATED.react"),{alignment:c,contextRef:function(){return p.current},label:d,items:e,onToggle:q,position:j,shown:n,width:k,offsetX:l,offsetY:a}):null;return[m,{ref:p,onClick:function(){return q(!n)}},q]}e.exports=a}),null);
