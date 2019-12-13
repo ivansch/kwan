@@ -5,10 +5,10 @@ const router = Router();
 var nodemailer = require('nodemailer');
 var smtpTransport = require('nodemailer-smtp-transport');
 
-var mailAccountUser = 'schmittivan222@gmail.com'
-var mailAccountPassword = 'schmitt1705'
+var mailAccountUser = 'somoskwan@gmail.com'
+var mailAccountPassword = '16102006pincha'
 
-var toEmailAddress = 'schmittivan222@gmail.com'
+var toEmailAddress = 'somoskwan@gmail.com'
 
 onclick = 'buildlist("YourCheckBoxName","selectedValues");'
 
